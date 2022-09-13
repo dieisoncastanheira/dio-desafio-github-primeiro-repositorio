@@ -1,0 +1,7 @@
+git status para verificar caso esteja em vermelho o repositorio 
+precisa adicionar
+para adicionar
+git add .
+pode usar git status para verificar se ta verde ta ok
+git commit -m "aqui escreva a mensagem ao commit"
+git push origin main para adiconar ao gitHub.com
